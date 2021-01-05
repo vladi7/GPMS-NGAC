@@ -16,4 +16,4 @@ Eclipse IDE for Enterprise Java Developers : https://www.eclipse.org/downloads/p
 
 Please consult the following wiki for the installation instructions (takes around 30 minutes without experience with eclipse/tomcat/mongodb):
 
-https://github.com/dianxiangxu/GPMS-NGAC/wiki
+https://github.com/vladi7/GPMS-NGAC/wiki
